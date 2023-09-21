@@ -1,3 +1,15 @@
+commit acdf045eee91727df1262525a58adf599539011d
+Author: CalebCurranVelasco <118134327+CalebCurranVelasco@users.noreply.github.com>
+Date:   Thu Sep 21 14:48:02 2023 -0600
+
+    adding scores.txt
+
+commit aff3f5a86f11cf28ba7834ee4e42857882a8eaa0
+Author: Ishaan Lahoti <ilahoti@mines.edu>
+Date:   Thu Sep 21 14:39:00 2023 -0600
+
+    Added gitlog.txt - Ishaan
+
 commit 3742681bf51afeab916fe6098205f6d00a23976f
 Author: Ishaan Lahoti <ilahoti@mines.edu>
 Date:   Thu Sep 21 14:33:26 2023 -0600
