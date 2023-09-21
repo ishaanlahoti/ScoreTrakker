@@ -6,7 +6,7 @@ import java.util.Scanner;
 public class ScoreTrakker {
 	private ArrayList<Student> students = new ArrayList<Student>();
 	
-	public void loadDataFile(String inputFile) {
+	public static void loadDataFile(String inputFile) {
 		FileReader file = null;
 		Boolean fileFound = false;
 		
@@ -27,5 +27,9 @@ public class ScoreTrakker {
 	public void printInOrder() {
 		
 	}
-	
+
+	public static void main(String[] args) {
+		loadDataFile("badscore.txt");
+	}
+
 }
