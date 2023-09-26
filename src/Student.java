@@ -9,14 +9,8 @@ public class Student implements Comparable<Student>{
 	}
 
 	@Override
-	public int compareTo(Student o) {
-		if(this.score == o.score) {
-			return 0;
-		}
-		else if(this.score > o.score) {
-			return -1;
-		}
-		return 1;
+	public int compareTo(Student student) {
+		return this.name.compareTo(student.name);
 	}
 
 	@Override
