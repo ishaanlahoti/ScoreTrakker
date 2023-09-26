@@ -38,3 +38,64 @@ Author: Ishaan Lahoti <ilahoti@mines.edu>
 Date:   Thu Sep 21 14:33:26 2023 -0600
 
     First commit - Ishaan Lahoti
+commit eb28351689127f90a610d09dad927fc3635c160b
+Author: Ishaan Lahoti <ilahoti@mines.edu>
+Date:   Mon Sep 25 18:53:48 2023 -0600
+
+    Modified ScoreTrakker and added finished first part - Ishaan Lahoti
+
+commit 56014ed522affbe8934ee512111d58f8e09b00a3
+Merge: 80c3bf6 91272fb
+Author: Ishaan Lahoti <ilahoti@mines.edu>
+Date:   Thu Sep 21 15:14:38 2023 -0600
+
+    Merge branch 'main' of https://github.com/ishaanlahoti/ScoreTrakker
+
+commit 80c3bf60d005fa6a49f7ec167b95e7aa41b0c78b
+Merge: a1a20e6 a458862
+Author: Ishaan Lahoti <ilahoti@mines.edu>
+Date:   Thu Sep 21 15:14:32 2023 -0600
+
+    Word
+
+commit 91272fbc06535af39d2983897a4916101baa8a29
+Author: CalebCurranVelasco <118134327+CalebCurranVelasco@users.noreply.github.com>
+Date:   Thu Sep 21 15:14:04 2023 -0600
+
+    baddcores
+
+commit a1a20e6b60e958b0736174a2fb1dc0364576fe0a
+Author: Ishaan Lahoti <ilahoti@mines.edu>
+Date:   Thu Sep 21 15:11:23 2023 -0600
+
+    Hello world
+
+commit a458862d64119e218c9eb85b0b91e1d2a9c97773
+Author: CalebCurranVelasco <118134327+CalebCurranVelasco@users.noreply.github.com>
+Date:   Thu Sep 21 15:10:15 2023 -0600
+
+    text file upadtes
+
+commit eff5d3e44f2abd4082584d92238d95037178f33a
+Author: Ishaan Lahoti <ilahoti@mines.edu>
+Date:   Thu Sep 21 14:58:17 2023 -0600
+
+    Added Comparable, toString() and variables to student class
+
+commit acdf045eee91727df1262525a58adf599539011d
+Author: CalebCurranVelasco <118134327+CalebCurranVelasco@users.noreply.github.com>
+Date:   Thu Sep 21 14:48:02 2023 -0600
+
+    adding scores.txt
+
+commit aff3f5a86f11cf28ba7834ee4e42857882a8eaa0
+Author: Ishaan Lahoti <ilahoti@mines.edu>
+Date:   Thu Sep 21 14:39:00 2023 -0600
+
+    Added gitlog.txt - Ishaan
+
+commit 3742681bf51afeab916fe6098205f6d00a23976f
+Author: Ishaan Lahoti <ilahoti@mines.edu>
+Date:   Thu Sep 21 14:33:26 2023 -0600
+
+    First commit - Ishaan Lahoti
